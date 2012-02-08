@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="daredevil.cs.usm.maine.edu" id="0" name="BookServiceIntegrationTests" package="books" tests="1" time="0.172" timestamp="2012-01-28T00:54:07">
+      <properties />
+
+      <testcase classname="books.BookServiceIntegrationTests" name="testStaticBook" time="0.17" />
+
+      <system-out><![CDATA[--Output from testStaticBook--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testStaticBook--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="daredevil.cs.usm.maine.edu" id="1" name="BookControllerTests" package="books" tests="1" time="0.927" timestamp="2012-01-28T00:53:59">
+      <properties />
+
+      <testcase classname="books.BookControllerTests" name="testSomething" time="0.922" />
+
+      <system-out><![CDATA[--Output from testSomething--
+Implement me]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="daredevil.cs.usm.maine.edu" id="2" name="BookServiceTests" package="books" tests="1" time="0.238" timestamp="2012-01-28T00:53:58">
+      <properties />
+
+      <testcase classname="books.BookServiceTests" name="testSomething" time="0.078" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="daredevil.cs.usm.maine.edu" id="3" name="BookTests" package="books" tests="1" time="0.713" timestamp="2012-01-28T00:53:58">
+      <properties />
+
+      <testcase classname="books.BookTests" name="testSomething" time="0.426" />
+
+      <system-out><![CDATA[--Output from testSomething--
+Implement me]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
