@@ -19,7 +19,7 @@ Admin
 </li>
 </ul>
     <div id="displayBook">
-      <p> Title: ${book.title}</p>
+      <p> TiTle: ${book.title}</p>
       <p> Author: ${book.author}</p>
       <p> Description: ${book.description}</p>
       <p> ISBN: ${book.ISBN}</p>
