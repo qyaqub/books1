@@ -1,5 +1,5 @@
 package books
-
+////sjkhsuilhsujhssuhsuhklushsklhsl
 class BookController {
     def scaffold = true
     def index = {  redirect(action: random) }
